@@ -1,4 +1,4 @@
-# client
+# vuestacks-calendar-mevn/client
 
 ## Project setup
 ```
