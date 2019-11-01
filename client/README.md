@@ -44,6 +44,6 @@ See ```routes/tasks.js``` to view Express router setup.
 2) Run npm init
 3) Run nodemon server to start the server
 4) In cloud.mongodb.com, retrieve the connection string for your MongoDB cluster
-5) Add your connection string to ```const uri = ''``` in routes/tasks.js
+5) Add your connection string to ```const uri = ''``` in ```routes/tasks.js```
 
 Enjoy the demo! Submit an issue if you see anything that could be improved!
