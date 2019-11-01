@@ -28,7 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-calendar-vue-vuex-firebase/master/client/src/assets/cal-screen3.jpg)
+![alt text](https://raw.githubusercontent.com/jsfanatik/vuestacks-calendar-mevn/master/client/src/assets/cal-screen3.jpg)
 
 ### Overview
 
