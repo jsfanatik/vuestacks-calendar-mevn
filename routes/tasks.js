@@ -3,7 +3,7 @@ var router = express.Router();
 
 const mongo = require('mongodb')
 const MongoClient = mongo.MongoClient
-const uri = "mongodb+srv://<username>:<password>@cluster0-9trwo.mongodb.net/test?retryWrites=true&w=majority"
+const uri = ""
 var client;
 var mongoClient = new MongoClient(uri, { reconnectTries :
 Number.MAX_VALUE, autoReconnect : true, useNewUrlParser : true })
